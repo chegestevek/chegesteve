@@ -1,4 +1,4 @@
-# Stephen Chege — Virtual Assistant Portfolio
+<!-- # Stephen Chege — Virtual Assistant Portfolio
 
 A polished, responsive Virtual Assistant portfolio built with **Next.js, TypeScript, Tailwind-style custom CSS, Sanity Studio, and Vercel**. This project uses custom CSS rather than a Tailwind dependency to keep the handover simple. All text, services, training certificate, downloadable CV, testimonials and image fields can be managed from Sanity once connected.
 
@@ -108,4 +108,4 @@ The homepage includes **Tools I am Familiar With**, grouped by communication, of
 
 
 ## Projects gallery (Sanity-managed)
-The Projects section is controlled entirely through the **Projects — add, edit or remove** list in Sanity Studio. Add a project title, description, and optional uploaded screenshot, category and outcome. Publish to show it; remove the last project to hide the whole section. See `PROJECTS-CMS-GUIDE.md`.
+The Projects section is controlled entirely through the **Projects — add, edit or remove** list in Sanity Studio. Add a project title, description, and optional uploaded screenshot, category and outcome. Publish to show it; remove the last project to hide the whole section. See `PROJECTS-CMS-GUIDE.md`. -->
